@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627144192306",
+    "project_id": "tokenapp-cd54d",
+    "storage_bucket": "tokenapp-cd54d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627144192306:android:7a91ff849738b14b88672b",
+        "android_client_info": {
+          "package_name": "com.example.problem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627144192306-nqcl0f22r9ql3v8g18h0sh9ksvrt6688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkP-bkB4TZDSyp4mnJBBDCCUe3OgOO318"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627144192306-nqcl0f22r9ql3v8g18h0sh9ksvrt6688.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
